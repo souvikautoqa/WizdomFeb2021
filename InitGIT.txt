@@ -1,2 +1,4 @@
  Hi this is my first commit ever --> Souvik
+ Agata new line for merge conflict
  This is my entry No 1--> Ayme
+ Agata new line for merge conflict 2
